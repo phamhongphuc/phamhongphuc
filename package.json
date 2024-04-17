@@ -1,0 +1,16 @@
+{
+  "name": "@phamhongphuc/monorepo",
+  "version": "0.0.0",
+  "description": "phamhongphuc's Monorepo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamhongphuc/phamhongphuc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phamhongphuc/phamhongphuc/issues"
+  },
+  "homepage": "https://github.com/phamhongphuc/phamhongphuc#readme",
+  "author": "phamhongphuc",
+  "license": "MIT",
+  "type": "module"
+}
