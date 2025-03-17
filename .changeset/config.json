@@ -1,0 +1,14 @@
+{
+  "$schema": "https://unpkg.com/@changesets/config@latest/schema.json",
+  "changelog": [
+    "@culur/changesets-changelog-github",
+    { "repo": "phamhongphuc/phamhongphuc" }
+  ],
+  "commit": false,
+  "fixed": [],
+  "linked": [],
+  "access": "restricted",
+  "baseBranch": "main",
+  "updateInternalDependencies": "patch",
+  "ignore": []
+}

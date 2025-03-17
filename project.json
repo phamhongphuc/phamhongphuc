@@ -1,0 +1,37 @@
+{
+  "$schema": "node_modules/nx/schemas/project-schema.json",
+  "name": "monorepo",
+  "targets": {
+    "lint:md": {
+      "inputs": [
+        "{workspaceRoot}/.markdownlint-cli2.yaml",
+        "{workspaceRoot}/**/*.md",
+        "!{workspaceRoot}/apps/**/*"
+      ]
+    },
+    "lint:es": {
+      "inputs": [
+        "{workspaceRoot}/eslint.config.mjs",
+        "{workspaceRoot}/**/*",
+        "!{workspaceRoot}/apps/**/*"
+      ]
+    },
+    "lint:css": {
+      "inputs": [
+        "{workspaceRoot}/.stylelintignore",
+        "{workspaceRoot}/.stylelintrc.mjs",
+        "{workspaceRoot}/**/*.(vue|css|scss)",
+        "!{workspaceRoot}/apps/**/*"
+      ]
+    },
+    "lint:prettier": {
+      "inputs": [
+        "{workspaceRoot}/.prettierignore",
+        "{workspaceRoot}/.prettierignore.project",
+        "{workspaceRoot}/.prettierrc.mjs",
+        "{workspaceRoot}/**/*",
+        "!{workspaceRoot}/apps/**/*"
+      ]
+    }
+  }
+}
