@@ -28,7 +28,7 @@ Beyond my core expertise, I am also passionate about exploring desktop developme
 ![Nodejs](https://img.shields.io/badge/Nodejs-black?logo=node.js)
 ![dotnet](https://img.shields.io/badge/.NET_Core-black?logo=dotnet)
 ![Go](https://img.shields.io/badge/Go-black?logo=go)
-![Graphql](https://img.shields.io/badge/Graphql-black?logo=graphql&logoColor=E10098)<br>
+![GraphQL](https://img.shields.io/badge/GraphQL-black?logo=graphql&logoColor=E10098)<br>
 ![Front-end](https://img.shields.io/badge/Front--end-3498db)
 ![HTML5](https://img.shields.io/badge/HTML5-black?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?logo=css3&logoColor=1572B6)
