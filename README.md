@@ -1,7 +1,5 @@
 # phamhongphuc 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=phamhongphuc.phamhongphuc)
-
 [![Linkedin Badge](https://img.shields.io/badge/phamhongphuc-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phamhongphuc/)](https://www.linkedin.com/in/phamhongphuc/)
 
 Hello, I'm Pham Hong Phuc, a full-stack developer from Ho Chi Minh City, Vietnam 🇻🇳. My professional focus lies in **front-end** and **web3 development**.
